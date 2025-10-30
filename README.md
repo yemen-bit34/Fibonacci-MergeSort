@@ -1,2 +1,2 @@
 # Fibonacci-MergeSort
-practice in hand
+practice in hand exercise
